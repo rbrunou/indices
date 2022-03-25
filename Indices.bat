@@ -1,0 +1,2 @@
+python Indices.py
+pause
